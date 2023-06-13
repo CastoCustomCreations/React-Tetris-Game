@@ -5,7 +5,7 @@
   "main": "lib/components/Tetris.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/brandly/react-tetris"
+    "url": "https://github.com/CastoCustomCreations/React-Tetris-Game"
   },
   "dependencies": {
     "keymaster": "1.6.2"
@@ -46,7 +46,7 @@
     "react": "^16.8.0 || ^17.0.0",
     "react-dom": "^16.8.0 || ^17.0.0"
   },
-  "homepage": "https://brandly.github.io/react-tetris/",
+  "homepage": "https://castocustomcreations.github.io/React-Tetris-Game/",
   "files": [
     "lib/"
   ]
