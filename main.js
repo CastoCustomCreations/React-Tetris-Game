@@ -119,4 +119,4 @@ For more info, visit https://reactjs.org/link/mock-scheduler`)),gg(o));var i=Iy(
 `,_n=h.h2`
   font-weight: 300;
   font-size: 18px;
-`;f.default.render(e.default.createElement(()=>g.default.createElement(Sn,null,g.default.createElement(xn,null,g.default.createElement(Cn,null,"react-tetris"),g.default.createElement(_n,null,"Embed a game of Tetris in your React app"),g.default.createElement(kn,null,"npm install --save react-tetris")),g.default.createElement(En,null,g.default.createElement(vn,null))),null),document.getElementById("main"))})();
+`;f.default.render(e.default.createElement(()=>g.default.createElement(Sn,null,g.default.createElement(xn,null,g.default.createElement(Cn,null,"Tetris Game Built with React"),g.default.createElement(_n,null,"Embed a game of Tetris in your React app"),g.default.createElement(kn,null,"npm install --save react-tetris")),g.default.createElement(En,null,g.default.createElement(vn,null))),null),document.getElementById("main"))})();
