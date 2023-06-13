@@ -1,4 +1,4 @@
-# react-tetris
+# Tetris Game built with React
 
 > Embed a game of Tetris in your React app
 
