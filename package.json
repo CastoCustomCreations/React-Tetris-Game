@@ -21,7 +21,7 @@
     "test": "tsc --noEmit && npm run lint && npm run test:unit",
     "test:unit": "esbuild --bundle --platform=node test/index.ts | node"
   },
-  "author": "Matthew Brandly",
+  "author": "Jennifer Casto",
   "license": "MIT",
   "devDependencies": {
     "@types/assert": "1.5.6",
