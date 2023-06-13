@@ -48,7 +48,7 @@ const SubTitle = styled.h2`
 const App = (): JSX.Element => (
   <Container>
     <Header>
-      <Title>react-tetris</Title>
+      <Title>Tetris build with React</Title>
       <SubTitle>Embed a game of Tetris in your React app</SubTitle>
       <TypedShell>npm install --save react-tetris</TypedShell>
     </Header>
