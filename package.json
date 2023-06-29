@@ -1,7 +1,7 @@
 {
   "name": "Tetris-Game-built with React",
   "version": "0.3.0",
-  "description": "Embed a game of Tetris in your React app",
+  "description": "Embed a game of Tetris in your own React app",
   "main": "lib/components/Tetris.js",
   "repository": {
     "type": "git",
